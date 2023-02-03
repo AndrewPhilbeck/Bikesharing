@@ -30,21 +30,17 @@ The reason I believe this is beneficial for us is because it shows that the vast
 
 ### Per Hour Trips by Day of the Week
 
-![Screenshot 2023-02-03 at 12 24 15 PM](https://user-images.githubusercontent.com/115502048/216668041-a250c458-c415-4ed2-b6a3-d526fe13a7d2.png)
+![Screenshot 2023-02-03 at 12 25 02 PM](https://user-images.githubusercontent.com/115502048/216668635-ce736d18-987d-4515-926a-5609f7c8face.png)
 
 This image gives us basic information about who uses the bikes most on certain days of the week. It confirms other information we have already seen (The majority of users are males who subscribe to the Citi Bike program) but it helps us see more clearly who are target demographic is and how we should market this program to them 
 
 _Males who can use Citi Bike to travel to and from work_
 
-(Insert Image)
+![Screenshot 2023-02-03 at 12 24 15 PM](https://user-images.githubusercontent.com/115502048/216668680-8faac24e-84a7-4424-8fc1-cc625f624ada.png)
 
 The above image confirms this by showing the majority of bike trips take place at 8am and 5-6pm on Monday through Friday. People are using them to go to and from work. There is also significant use taking place between 9am & 7pm on Saturday and Sunday. _Oddly people don’t seem to use the bikes to travel home on Wednesday._
 
-(Insert Image)
-
-This simply gives us further breakdown of how the bikes are used on both a weekly and hourly basis by all genders.
-
-(Insert Image)
+![Screenshot 2023-02-03 at 12 25 39 PM](https://user-images.githubusercontent.com/115502048/216668750-d9857f25-af5e-4edf-8fe7-e9cb3d35439d.png)
 
 This final image shows us not simply the trends of which hours of the day Citi Bike is used but shows us a breakdown of how many are used. On the one hand it confirms what we have seen in other visualizations but it offers us a better picture of the number of bikes available in New York City. This will be helpful when doing further analysis of the number of bikes needed for a Citi Bike program in Des Moines.
 
