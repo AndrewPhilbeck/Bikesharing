@@ -30,13 +30,13 @@ The reason I believe this is beneficial for us is because it shows that the vast
 
 ### Per Hour Trips by Day of the Week
 
-![Screenshot 2023-02-03 at 12 25 02 PM](https://user-images.githubusercontent.com/115502048/216668635-ce736d18-987d-4515-926a-5609f7c8face.png)
+![Screenshot 2023-02-03 at 12 31 31 PM](https://user-images.githubusercontent.com/115502048/216669137-523ca740-106c-471c-86fc-263bbbd93412.png)
 
 This image gives us basic information about who uses the bikes most on certain days of the week. It confirms other information we have already seen (The majority of users are males who subscribe to the Citi Bike program) but it helps us see more clearly who are target demographic is and how we should market this program to them 
 
 _Males who can use Citi Bike to travel to and from work_
 
-![Screenshot 2023-02-03 at 12 31 31 PM](https://user-images.githubusercontent.com/115502048/216669014-a3d25f3f-9fee-4201-bb53-0833515e5f82.png)
+![Screenshot 2023-02-03 at 12 24 15 PM](https://user-images.githubusercontent.com/115502048/216669179-69301050-195a-45e1-9c62-ced15485a3a6.png)
 
 The above image confirms this by showing the majority of bike trips take place at 8am and 5-6pm on Monday through Friday. People are using them to go to and from work. There is also significant use taking place between 9am & 7pm on Saturday and Sunday. _Oddly people don’t seem to use the bikes to travel home on Wednesday._
 
