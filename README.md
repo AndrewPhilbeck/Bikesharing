@@ -36,7 +36,7 @@ This image gives us basic information about who uses the bikes most on certain d
 
 _Males who can use Citi Bike to travel to and from work_
 
-![Screenshot 2023-02-03 at 12 24 15 PM](https://user-images.githubusercontent.com/115502048/216668680-8faac24e-84a7-4424-8fc1-cc625f624ada.png)
+![Screenshot 2023-02-03 at 12 31 31 PM](https://user-images.githubusercontent.com/115502048/216669014-a3d25f3f-9fee-4201-bb53-0833515e5f82.png)
 
 The above image confirms this by showing the majority of bike trips take place at 8am and 5-6pm on Monday through Friday. People are using them to go to and from work. There is also significant use taking place between 9am & 7pm on Saturday and Sunday. _Oddly people don’t seem to use the bikes to travel home on Wednesday._
 
