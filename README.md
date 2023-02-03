@@ -40,7 +40,7 @@ _Males who can use Citi Bike to travel to and from work_
 
 The above image confirms this by showing the majority of bike trips take place at 8am and 5-6pm on Monday through Friday. People are using them to go to and from work. There is also significant use taking place between 9am & 7pm on Saturday and Sunday. _Oddly people don’t seem to use the bikes to travel home on Wednesday._
 
-![Screenshot 2023-02-03 at 12 25 39 PM](https://user-images.githubusercontent.com/115502048/216668750-d9857f25-af5e-4edf-8fe7-e9cb3d35439d.png)
+![Screenshot 2023-02-03 at 12 33 51 PM](https://user-images.githubusercontent.com/115502048/216669431-548a460d-8f61-460b-8481-0d3b5d81a1b1.png)
 
 This final image shows us not simply the trends of which hours of the day Citi Bike is used but shows us a breakdown of how many are used. On the one hand it confirms what we have seen in other visualizations but it offers us a better picture of the number of bikes available in New York City. This will be helpful when doing further analysis of the number of bikes needed for a Citi Bike program in Des Moines.
 
