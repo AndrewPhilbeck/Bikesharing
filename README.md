@@ -24,13 +24,13 @@ We are also given a breakdown of Gender and see that most of the users are Male.
 
 These next two visualizations provide what I believe to be very beneficial information in regards to the potential of a Citi Bike program in Des Moines. This is because we see below the breakdown of how much time user’s checkout bikes on average for the month of August. The first image is for all the customers who used Citi Bike, the second image has the same information broken down by gender.
 
-(Insert Image)
+![Screenshot 2023-02-03 at 12 22 12 PM](https://user-images.githubusercontent.com/115502048/216667879-55f3300f-53ac-4f5b-b652-7f358ac5bc1b.png)
 
 The reason I believe this is beneficial for us is because it shows that the vast majority of Citi Bike users are on their bikes for less than twenty minutes. This means that even in a city the size of New York they are not using the bikes for long trips. One of the reasons I believe a Citi Bike program would work in Des Moise is because even though it is much smaller the majority of people will only be using the bikes for twenty minutes or less like we see in the New York City data.
 
 ### Per Hour Trips by Day of the Week
 
-(Insert Image)
+![Screenshot 2023-02-03 at 12 24 15 PM](https://user-images.githubusercontent.com/115502048/216668041-a250c458-c415-4ed2-b6a3-d526fe13a7d2.png)
 
 This image gives us basic information about who uses the bikes most on certain days of the week. It confirms other information we have already seen (The majority of users are males who subscribe to the Citi Bike program) but it helps us see more clearly who are target demographic is and how we should market this program to them 
 
