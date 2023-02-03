@@ -12,7 +12,8 @@ While New York City and Des Moines differ in a variety I wanted to look at aspec
 
 Here are three visualizations which provide some basic information about the New York Citi Bike program in August of 2019
 
-(Insert Dashboard)
+![Basic Information Dashboard](https://user-images.githubusercontent.com/115502048/216666809-38735a16-abb7-463f-9685-389afd8a2a4a.png)
+
 
 This gives us the total number of rides for the month: 2,344,224.
 
